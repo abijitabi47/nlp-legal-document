@@ -186,11 +186,7 @@ venv\Scripts\activate
 
 ### Step 3: Install Dependencies
 
-```bash
-pip install streamlit sentence-transformers faiss-cpu numpy pymupdf
-```
 
-If your project has a `requirements.txt` file, use:
 
 ```bash
 pip install -r requirements.txt
